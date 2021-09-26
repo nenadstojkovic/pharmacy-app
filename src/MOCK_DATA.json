@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Isopropyl Alcohol",
+    "price": 207,
+    "manufacturer": {
+      "id": 1,
+      "name": "Gislason LLC",
+      "stock": 236
+    },
+    "expiryDate": "2022-06-05",
+    "manufacturerName": "Gislason LLC"
+  },
+  {
+    "id": 2,
+    "name": "Carbamazepine",
+    "price": 44,
+    "manufacturer": {
+      "id": 2,
+      "name": "Sawayn and Sons",
+      "stock": 221
+    },
+    "expiryDate": "2021-08-01",
+    "manufacturerName": "Sawayn and Sons"
+  },
+  {
+    "id": 3,
+    "name": "PRAVASTATIN SODIUM",
+    "price": 125,
+    "manufacturer": {
+      "id": 3,
+      "name": "Klein Inc",
+      "stock": 409
+    },
+    "expiryDate": "2021-12-11",
+    "manufacturerName": "Klein Inc"
+  },
+  {
+    "id": 4,
+    "name": "Ibuprofen",
+    "price": 170,
+    "manufacturer": {
+      "id": 4,
+      "name": "Johnston and Goldner",
+      "stock": 212
+    },
+    "expiryDate": "2022-03-04",
+    "manufacturerName": "Johnston and Goldner"
+  },
+  {
+    "id": 5,
+    "name": "Metronidazole",
+    "price": 231,
+    "manufacturer": {
+      "id": 5,
+      "name": "Emmerich-Prohaska",
+      "stock": 359
+    },
+    "expiryDate": "2022-01-23",
+    "manufacturerName": "Emmerich-Prohaska"
+  },
+  {
+    "id": 6,
+    "name": "Titanium Dioxide",
+    "price": 28,
+    "manufacturer": {
+      "id": 6,
+      "name": "Bergstrom, Bernhard and Zboncak",
+      "stock": 264
+    },
+    "expiryDate": "2021-07-24",
+    "manufacturerName": "Bergstrom, Bernhard and Zboncak"
+  },
+  {
+    "id": 7,
+    "name": "Diclofenac Sodium",
+    "price": 45,
+    "manufacturer": {
+      "id": 7,
+      "name": "Mohr-Boyle",
+      "stock": 434
+    },
+    "expiryDate": "2021-11-13",
+    "manufacturerName": "Mohr-Boyle"
+  },
+  {
+    "id": 8,
+    "name": "Alprazolam",
+    "price": 127,
+    "manufacturer": {
+      "id": 8,
+      "name": "Howell, Mosciski and Ondricka",
+      "stock": 488
+    },
+    "expiryDate": "2020-12-02",
+    "manufacturerName": "Howell, Mosciski and Ondricka"
+  },
+  {
+    "id": 9,
+    "name": "Benzocaine",
+    "price": 133,
+    "manufacturer": {
+      "id": 9,
+      "name": "Bashirian Group",
+      "stock": 327
+    },
+    "expiryDate": "2022-09-23",
+    "manufacturerName": "Bashirian Group"
+  },
+  {
+    "id": 10,
+    "name": "Diflunisal",
+    "price": 118,
+    "manufacturer": {
+      "id": 10,
+      "name": "Dickens and Sons",
+      "stock": 320
+    },
+    "expiryDate": "2021-01-11",
+    "manufacturerName": "Dickens and Sons"
+  },
+  {
+    "id": 11,
+    "name": "IRBESARTAN",
+    "price": 70,
+    "manufacturer": {
+      "id": 11,
+      "name": "Kling Group",
+      "stock": 492
+    },
+    "expiryDate": "2021-02-07",
+    "manufacturerName": "Kling Group"
+  },
+  {
+    "id": 12,
+    "name": "ALLANTOIN",
+    "price": 200,
+    "manufacturer": {
+      "id": 12,
+      "name": "Konopelski-Muller",
+      "stock": 350
+    },
+    "expiryDate": "2021-04-14",
+    "manufacturerName": "Konopelski-Muller"
+  },
+  {
+    "id": 13,
+    "name": "Antihemophilic Factor, Human Recombinant",
+    "price": 198,
+    "manufacturer": {
+      "id": 13,
+      "name": "Gerhold-Shields",
+      "stock": 241
+    },
+    "expiryDate": "2022-01-28",
+    "manufacturerName": "Gerhold-Shields"
+  },
+  {
+    "id": 14,
+    "name": "Acacia longifolia",
+    "price": 104,
+    "manufacturer": {
+      "id": 14,
+      "name": "Armstrong LLC",
+      "stock": 283
+    },
+    "expiryDate": "2021-07-27",
+    "manufacturerName": "Armstrong LLC"
+  },
+  {
+    "id": 15,
+    "name": "Simethicone",
+    "price": 243,
+    "manufacturer": {
+      "id": 15,
+      "name": "Feil, Shanahan and Langosh",
+      "stock": 255
+    },
+    "expiryDate": "2022-06-30",
+    "manufacturerName": "Feil, Shanahan and Langosh"
+  }
+]
